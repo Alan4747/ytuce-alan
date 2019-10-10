@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ytuce-alan/static/css/main.c22b8042.chunk.css",
+    "main.js": "/ytuce-alan/static/js/main.9d1f9c4f.chunk.js",
+    "main.js.map": "/ytuce-alan/static/js/main.9d1f9c4f.chunk.js.map",
+    "runtime~main.js": "/ytuce-alan/static/js/runtime~main.915f8264.js",
+    "runtime~main.js.map": "/ytuce-alan/static/js/runtime~main.915f8264.js.map",
+    "static/css/2.dd5c51eb.chunk.css": "/ytuce-alan/static/css/2.dd5c51eb.chunk.css",
+    "static/js/2.b443dacc.chunk.js": "/ytuce-alan/static/js/2.b443dacc.chunk.js",
+    "static/js/2.b443dacc.chunk.js.map": "/ytuce-alan/static/js/2.b443dacc.chunk.js.map",
+    "index.html": "/ytuce-alan/index.html",
+    "precache-manifest.bc6a9b615cbaeb8dcc1741cd6f3dae25.js": "/ytuce-alan/precache-manifest.bc6a9b615cbaeb8dcc1741cd6f3dae25.js",
+    "service-worker.js": "/ytuce-alan/service-worker.js",
+    "static/css/2.dd5c51eb.chunk.css.map": "/ytuce-alan/static/css/2.dd5c51eb.chunk.css.map",
+    "static/css/main.c22b8042.chunk.css.map": "/ytuce-alan/static/css/main.c22b8042.chunk.css.map",
+    "static/media/paper-dashboard.scss?v=1.1.0": "/ytuce-alan/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/yildiz-logo.svg": "/ytuce-alan/static/media/yildiz-logo.9dfd56d0.svg"
+  }
+}
