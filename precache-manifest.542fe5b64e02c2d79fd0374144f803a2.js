@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42b147bf336c65e9aed675fb8e2e7665",
+    "revision": "1129e7e9bf21a602c7268e18b2732de6",
     "url": "/ytuce-alan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ytuce-alan/static/css/2.dd5c51eb.chunk.css"
   },
   {
-    "revision": "ee206c20fb9b88b0bda2",
+    "revision": "a71ef4c4be0ce16d6aa8",
     "url": "/ytuce-alan/static/css/main.c22b8042.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ytuce-alan/static/js/2.b443dacc.chunk.js"
   },
   {
-    "revision": "ee206c20fb9b88b0bda2",
-    "url": "/ytuce-alan/static/js/main.9d1f9c4f.chunk.js"
+    "revision": "a71ef4c4be0ce16d6aa8",
+    "url": "/ytuce-alan/static/js/main.a6278807.chunk.js"
   },
   {
     "revision": "de967c289d99f4775935",
